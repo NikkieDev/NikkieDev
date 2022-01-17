@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NikkieDev
+- 👀 I’m interested in C languages, OOP
+- 🌱 I’m currently learning C/C++
+- 💞️ I’m looking to collaborate on Nothing currently
+- 📫 How to reach me https://nikkiedev.com/contact
