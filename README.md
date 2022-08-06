@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @NikkieDev
-- 👀 I’m interested in Mostly web, but also some C#
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on Nothing currently
-- 📫 How to reach me business@nikkiedev.com / https://nikkiedev.com
+- 👋 Hi, I’m @NikkieDev;
+- 👀 I’m interested in backend programming in C#, JavaScript and Python;
+- 🌱 I’m currently learning C#;
+- 💞️ I’m looking to collaborate on Nothing currently;
+- I'm the developer of BungoCrypt encryption library;
