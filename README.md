@@ -8,5 +8,5 @@
 ### Workstation specs:
  - Thermaltake s100tg
  - Intel Core i5-10400F
- - MSI Geforce GTX 660 2GB
+ - Gigabyte Eagle RTX 3060 12GB OC
  - 32GB DDR4 4x8 2133Mhz
