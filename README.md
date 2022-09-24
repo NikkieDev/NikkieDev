@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning C#;
 - 💞️ I’m looking to collaborate on Nothing currently;
 - 👩‍🎓 Studying Software Development at ROCvT
-- I'm the developer of BungoCrypt encryption library;
 
 
 ### Workstation specs:
