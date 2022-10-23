@@ -5,8 +5,34 @@
 - 👩‍🎓 Studying Software Development at ROCvT
 
 
-### Workstation specs:
- - ThermalTake S100TG
- - Intel Core i5-10400F
- - Gigabyte Eagle RTX 3060 12GB OC
- - 32GB DDR4 4x8 2133Mhz
+"PC Specs": {
+"Case": "Thermaltake S100TG",
+"MOBO": "Asus Prime B560M-A",
+"CPU": "Intel Core i5-10400F",
+"GPU": "Gigabyte EAGLE RTX 3060 OC 12GB",
+"RAM": "32GB DDR4 2666Mhz",
+"Cooler": "Cooler master masterliquid ML120L v2 RGB",
+"PSU": "Cooler master MWE Silver 750W",
+"Drives": ["Kingston A400 480GB", "Seagate Barracuda 7200RPM 2TB HDD"]
+},
+
+"Interests": {
+"Development",
+"Gaming",
+"Devops"
+},
+
+"Games": {
+"CSGO",
+"Payday 2"
+"Ready or Not"
+},
+
+"Languages": {
+"English",
+"Dutch",
+"C#",
+"JavaScript",
+"PHP",
+"C++"
+}
