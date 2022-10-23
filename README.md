@@ -15,5 +15,5 @@
   "Cooler": "Cooler master masterliquid ML120L v2 RGB",
   "PSU": "Cooler master MWE Silver 750W",
   "Drives": ["Kingston A400 480GB", "Seagate Barracuda 7200RPM 2TB HDD"]
-},
+}
 ```
