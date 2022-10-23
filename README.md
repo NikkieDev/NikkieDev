@@ -5,7 +5,6 @@
 - 👩‍🎓 Studying Software Development at ROCvT
 
 
-"PC Specs": {
 "Case": "Thermaltake S100TG",
 "MOBO": "Asus Prime B560M-A",
 "CPU": "Intel Core i5-10400F",
@@ -14,25 +13,3 @@
 "Cooler": "Cooler master masterliquid ML120L v2 RGB",
 "PSU": "Cooler master MWE Silver 750W",
 "Drives": ["Kingston A400 480GB", "Seagate Barracuda 7200RPM 2TB HDD"]
-},
-
-"Interests": {
-"Development",
-"Gaming",
-"Devops"
-},
-
-"Games": {
-"CSGO",
-"Payday 2"
-"Ready or Not"
-},
-
-"Languages": {
-"English",
-"Dutch",
-"C#",
-"JavaScript",
-"PHP",
-"C++"
-}
