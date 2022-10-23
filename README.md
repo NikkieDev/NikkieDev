@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Nothing currently;
 - 👩‍🎓 Studying Software Development at ROCvT
 
-
+"./NikkieDev/Specs.json"
 ```
 "PC Specs": {
   "Case": "Thermaltake S100TG",
