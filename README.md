@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++;
 - 💞️ I’m looking to collaborate on Nothing currently;
 - 👩‍🎓 I'm studying software development at ROCvT;
-- ⌨️ I'm currently working on CS-TRACK;
+- ⌨️ I'm currently working on CS-TRACK & Kublet;
 
 `./NikkieDev/Specs.json`
 ```
