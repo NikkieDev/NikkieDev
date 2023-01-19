@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikkieDev;
 - 👀 I’m interested in backend programming in C++, C#, and JS;
-- 🌱 I’m currently learning X86 Assembly;
+- 🌱 I’m currently learning C++, C#
 - 💞️ I’m looking to collaborate on Nothing currently;
 - 👩‍🎓 I'm studying software development at ROCvT;
 - ⌨️ I'm currently working on CS-TRACK & Kublet;
