@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @NikkieDev;
-- 👀 I’m interested in backend programming in Typescript & Vuex;
-- 🌱 I’m currently learning C++, C#
+- 👀 I’m interested in Laravel & jQuery;
+- 🌱 I’m currently learning whatever really
 - 💞️ I’m looking to collaborate on Nothing currently;
 - 👩‍🎓 I'm studying software development at ROCvT;
-- ⌨️ I'm currently working on Darkchat;
+- ⌨️ I'm currently working on in-house admin panel web applications;
 
 `./NikkieDev/Specs.json`
 ```
