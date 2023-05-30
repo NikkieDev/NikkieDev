@@ -15,6 +15,6 @@
   "RAM": "24GB DDR4",
   "Cooler": "Cooler master masterliquid ML120L v2 RGB",
   "PSU": "Cooler master MWE Silver 750W",
-  "Drives": ["Kingston A400 480GB", "Seagate Barracuda 7200RPM 2TB HDD"]
+  "Drives": ["Kingston A400 480GB", "Seagate Barracuda 7200RPM 2TB HDD", "Samsung 870 Evo 2TB SSD"]
 }
 ```
