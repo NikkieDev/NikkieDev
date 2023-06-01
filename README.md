@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NikkieDev;
-- 👀 I’m interested in Laravel & jQuery;
+- 👀 I’m interested in JavaScript;
 - 🌱 I’m currently learning whatever really
 - 💞️ I’m looking to collaborate on Nothing currently;
 - 👩‍🎓 I'm studying software development at ROCvT;
