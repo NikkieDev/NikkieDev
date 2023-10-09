@@ -5,6 +5,7 @@
 - 👩‍🎓 I'm studying software development at ROCvT;
 - ⌨️ I'm currently working on webstores;
 - 💬 I'm a Dutch translator for [Web Host Simulator](https://ko-fi.com/WebHostSimulator)
+  
 `./NikkieDev/Specs.json`
 ```
 "PC Specs": {
