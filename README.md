@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning whatever really
 - 💞️ I’m looking to collaborate on Nothing currently;
 - 👩‍🎓 I'm studying software development at ROCvT;
-- ⌨️ I'm currently working on in-house admin panel web applications;
-
+- ⌨️ I'm currently working on webstores;
+- 💬 I'm a Dutch translator for [Web Host Simulator](https://ko-fi.com/WebHostSimulator)
 `./NikkieDev/Specs.json`
 ```
 "PC Specs": {
