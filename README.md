@@ -19,3 +19,28 @@
   "Drives": ["Kingston A400 480GB", "Seagate Barracuda 7200RPM 2TB HDD", "Samsung 870 Evo 2TB SSD"]
 }
 ```
+
+##### Favorite languages
+* C
+* PHP
+* JQuery
+
+##### Operating systems
+* Arch
+* Debian
+* Ubuntu
+* Windows
+
+###### Window/Display Managers
+
+* i3wm
+* Hyprland
+
+###### Preferred editors
+* Vim
+* VS code
+
+[My Dotfiles](https://github.com/NikkieDev/dotfiles)
+
+> I hate microsoft and windows btw
+# Unix FTW
