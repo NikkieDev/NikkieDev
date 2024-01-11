@@ -21,9 +21,15 @@
 ```
 
 ##### Favorite languages
-* C
-* PHP
-* JQuery
+* C (Semi Fluent)
+* PHP (Semi Fluent)
+* JavaScript (Fluent)
+
+
+##### Languages I hate
+* C# (Fluent)
+* TypeScript (Fluent)
+* C++ (terrible at it)
 
 ##### Operating systems
 * Arch
@@ -32,9 +38,7 @@
 * Windows
 
 ###### Window/Display Managers
-
 * i3wm
-* Hyprland
 
 ###### Preferred editors
 * Vim
@@ -44,3 +48,16 @@
 
 > I hate microsoft and windows btw
 # Unix FTW
+
+
+###### All Technologies I remember using:
+Coding:
+  C,CPP,Java,PHP,Python,Dart(Flutter only),HTML,JS,CSS,Vue.JS,React.JS
+Databases:
+  MySQL,MariaDB,MongoDB
+Operating Systems:
+  Linux : Debian (11/12), Arch, Ubutun, Mint, PuppyLinux, Pop!_OS, Fedora, Windows : XP, Vista, 7, 8, 8.1, 10
+Virtualisation:
+  VirtualBox, VMWare, VMWare ESXi, Proxmox VE
+Package Managers:
+  Vite, NPM, Bun, NuGet, PIP
