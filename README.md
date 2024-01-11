@@ -52,18 +52,22 @@
 
 ###### All Technologies I remember using:
 Software Development:
-  C,CPP,C#,Java,PHP,Python,Dart(Flutter only),HTML,JS,CSS,Vue.JS,React.JS,Laravel,Node,ts-node,TailwindCss,Bootstrap (4/5),Rust,Go,JSON,YAML,   
+  * C,CPP,C#,Java,PHP,Python,Dart(Flutter only),HTML,JS,CSS,Vue.JS,React.JS,Laravel,Node,ts-node,TailwindCss,Bootstrap (4/5),Rust,Go,JSON,YAML,   
 Databases:  
-  MySQL,MariaDB,MongoDB  
+  * MySQL,MariaDB,MongoDB  
 Operating Systems:  
-  Linux : Debian (11/12), Arch, Ubuntu(18.04LTS, 20.04LTS), Mint, PuppyLinux, Pop!_OS, Fedora, Windows : XP, Vista, 7, 8, 8.1, 10
+  * Linux : Debian (11/12), Arch, Ubuntu(18.04LTS, 20.04LTS), Mint, PuppyLinux, Pop!_OS, Fedora, Windows : XP, Vista, 7, 8, 8.1, 10
 Virtualisation:  
-  VirtualBox, VMWare, VMWare ESXi, Proxmox VE  
+  * VirtualBox, VMWare, VMWare ESXi, Proxmox VE  
 Package Managers:  
-  Vite, NPM, Bun, NuGet, PIP, Apt, Pacman, Flatpak, yay  
+  * Vite, NPM, Bun, NuGet, PIP, Apt, Pacman, Flatpak, yay  
 AI:  
-  Bard (Google), GPT-3.5 (OpenAI)  
+  * Bard (Google), GPT-3.5 (OpenAI)  
 Code Editors:  
-  Visual Studio Code, Visual Studio (2020/2021), Vi, Vim, NotePad, SublimeText 3, Nano  
+  * Visual Studio Code, Visual Studio (2020/2021), Vi, Vim, NotePad, SublimeText 3, Nano  
 Communication:
-  Discord, Whatsapp, Gmail, Thunderbird, Teams, Zoom.  
+  * Discord, Whatsapp, Gmail, Thunderbird, Teams, Zoom.
+SCM:  
+  * Github, Gitlab, My harddrive at some point lol, Manual SFTP server transferring. Also just coding straight to production (terrible Idea)  
+
+Amount of times I've accidentally dropped prod DB: 7
