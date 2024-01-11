@@ -52,12 +52,12 @@
 
 ###### All Technologies I remember using:
 Coding:
-  C,CPP,Java,PHP,Python,Dart(Flutter only),HTML,JS,CSS,Vue.JS,React.JS
-Databases:
-  MySQL,MariaDB,MongoDB
-Operating Systems:
-  Linux : Debian (11/12), Arch, Ubutun, Mint, PuppyLinux, Pop!_OS, Fedora, Windows : XP, Vista, 7, 8, 8.1, 10
-Virtualisation:
-  VirtualBox, VMWare, VMWare ESXi, Proxmox VE
-Package Managers:
-  Vite, NPM, Bun, NuGet, PIP
+  C,CPP,Java,PHP,Python,Dart(Flutter only),HTML,JS,CSS,Vue.JS,React.JS  
+Databases:  
+  MySQL,MariaDB,MongoDB  
+Operating Systems:  
+  Linux : Debian (11/12), Arch, Ubutun, Mint, PuppyLinux, Pop!_OS, Fedora, Windows : XP, Vista, 7, 8, 8.1, 10  
+Virtualisation:  
+  VirtualBox, VMWare, VMWare ESXi, Proxmox VE  
+Package Managers:  
+  Vite, NPM, Bun, NuGet, PIP  
