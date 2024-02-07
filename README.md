@@ -16,8 +16,25 @@
   "RAM": "24GB DDR4",
   "Cooler": "Cooler master masterliquid ML120L v2 RGB",
   "PSU": "Cooler master MWE Silver 750W",
-  "Drives": ["Kingston A400 480GB", "Seagate Barracuda 7200RPM 2TB HDD", "Samsung 870 Evo 2TB SSD"]
-}
+  "Drives": ["Kingston A400 480GB", "Seagate Barracuda 7200RPM 2TB HDD", "Samsung 870 Evo 2TB SSD"],
+  "primary_monitor": "Some 165Hz 1440p 31.5Inch Philips Monitor"
+},
+"Servers": [
+  {
+    "model": "Dell PowerEdge R710",
+    "CPU": ["Intel Xeon x5650", "Intel Xeon x5650"],
+    "RAM": "24GB 6x4 DDR3",
+    "OS": "VMWare ESXi 6.7",
+    "purpose": "VM Hosting (VPS')"
+  },
+  {
+    "model": "Custom",
+    "CPU": "Intel Core 2 Quad Q6700",
+    "RAM": "4GB 4x1 DDR2",
+    "OS": "OpenMediaVault",
+    "purpose": "NAS"
+  }
+]
 ```
 
 ##### Favorite languages
