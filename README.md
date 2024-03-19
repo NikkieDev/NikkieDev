@@ -81,7 +81,7 @@
 Software Development:
   * C,CPP,C#,Java,PHP,Python,Dart(Flutter only),HTML,JS,CSS,
   * Vue.JS,React.JS,Laravel,Node,ts-node,TailwindCss,Bootstrap (4/5),Rust,Go,JSON,YAML,
-  * TS,Webpack
+  * TS,Webpack,HubL
 
 
 CMS:
