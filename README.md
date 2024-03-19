@@ -20,6 +20,14 @@
   "Drives": ["Kingston A400 480GB", "Seagate Barracuda 7200RPM 2TB HDD", "Samsung 870 Evo 2TB SSD"],
   "primary_monitor": "Some 165Hz 1440p 31.5Inch Philips Monitor"
 },
+"Daily carry Laptop": {
+  "Model": "Dell Latitude 5480",
+  "CPU": "Intel Core i5-6300U",
+  "RAM": "16GB DDR4 (2x8)",
+  "Storage": "Samsung 870 Evo 1TB SSD",
+  "OS": "GNU+Linux Debian 11.6 Bullseye",
+  "WM": "i3wm"
+},
 "Servers": [
   {
     "model": "Dell PowerEdge R710",
