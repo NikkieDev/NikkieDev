@@ -64,7 +64,8 @@
 * Windows
 
 ###### Window/Display Managers
-* i3wm
+* i3wm (Debian)
+* Hyprland (Arch)
 
 ###### Preferred editors
 * Vim
@@ -78,30 +79,46 @@
 
 ###### All Technologies I remember using:
 Software Development:
-  * C,CPP,C#,Java,PHP,Python,Dart(Flutter only),HTML,JS,CSS,Vue.JS,React.JS,Laravel,Node,ts-node,TailwindCss,Bootstrap (4/5),Rust,Go,JSON,YAML
+  * C,CPP,C#,Java,PHP,Python,Dart(Flutter only),HTML,JS,CSS,
+  * Vue.JS,React.JS,Laravel,Node,ts-node,TailwindCss,Bootstrap (4/5),Rust,Go,JSON,YAML,
+  * TS,Webpack
+
+
+CMS:
+  * Jimdo, Wix, HubSpot
+
 
 Databases:  
   * MySQL,MariaDB,MongoDB
 
+
 Operating Systems:  
-  * Linux : Debian (11/12), Arch, Ubuntu(18.04LTS, 20.04LTS), Mint, PuppyLinux, Pop!_OS, Fedora, Windows : XP, Vista, 7, 8, 8.1, 10
+  * Linux : Debian (11/12), Arch, Ubuntu(18.04LTS, 20.04LTS), Mint, PuppyLinux, Pop!_OS, Fedora, Windows : XP, Vista, 7, 8, 8.1, 10, Mac: Sonoma 14.3
+
 
 Virtualisation:  
-  * VirtualBox, VMWare, VMWare ESXi, Proxmox VE
+  * VirtualBox, VMWare, VMWare ESXi, Proxmox VE  
 
 
 Package Managers:  
-  * Vite, NPM, Bun, NuGet, PIP, Apt, Pacman, Flatpak, yay
+  * Vite, NPM, Bun, NuGet, PIP, Apt, Pacman, Flatpak, yay, homebrew  
 
 
 AI:  
-  * Bard (Google), GPT-3.5 (OpenAI)
+  * Bard (Google), GPT-3.5 (OpenAI), Gemini (Google)  
+
 
 Code Editors:  
-  * Visual Studio Code, Visual Studio (2020/2021), Vi, Vim, NotePad, SublimeText 3, Nano
+  * Visual Studio Code, Visual Studio (2020/2021), Vi, Vim, NotePad, SublimeText 3, Nano, Gedit.  
+
 
 Communication:
-  * Discord, Whatsapp, Gmail, Thunderbird, Teams, Zoom.
+  * Discord, Whatsapp, Gmail, Thunderbird, Teams, Zoom, Slack, ClickUp
+
+
+Workflows:
+  * Scrum/Agile
+
 
 SCM:  
   * Github, Gitlab, My harddrive at some point lol, Manual SFTP server transferring. Also just coding straight to production (terrible Idea)
