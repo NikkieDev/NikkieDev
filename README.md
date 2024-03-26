@@ -81,7 +81,7 @@
 Software Development:
   * C,CPP,C#,Java,PHP,Python,Dart(Flutter only),HTML,JS,CSS,
   * Vue.JS,React.JS,Laravel,Node,ts-node,TailwindCss,Bootstrap (4/5),Rust,Go,JSON,YAML,
-  * TS,Webpack,HubL
+  * TS,Webpack,HubL, NestJS
 
 
 CMS:
@@ -127,5 +127,8 @@ Workflows:
 SCM:  
   * Github, Gitlab, My harddrive at some point lol, Manual SFTP server transferring. Also just coding straight to production (terrible Idea)
 
+
+ORM:
+  * TypeORM
 
 Amount of times I've accidentally dropped prod DB: 7
