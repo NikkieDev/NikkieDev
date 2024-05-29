@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @NikkieDev;
 - 👀 I’m interested in Networking, Programming;
 - 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on Nothing currently;
 - 👩‍🎓 I'm studying software development at ROCvT;
-- ⌨️ I'm currently working on knipurl;
 - 💬 I'm a Dutch translator for [Web Host Simulator](https://ko-fi.com/WebHostSimulator);
 - ⌨️ I'm currently an Intern @ [WilJeKoffie BV](https://wiljekoffie.com)
   
