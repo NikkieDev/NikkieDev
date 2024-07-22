@@ -24,30 +24,14 @@
   "Storage": "Samsung 870 Evo 1TB SSD",
   "OS": "GNU+Linux Debian 11.6 Bullseye",
   "WM": "i3wm"
-},
-"Servers": [
-  {
-    "model": "Dell PowerEdge R710",
-    "CPU": ["Intel Xeon x5650", "Intel Xeon x5650"],
-    "RAM": "24GB 6x4 DDR3",
-    "OS": "VMWare ESXi 6.7",
-    "purpose": "VM Hosting (VPS')"
-  },
-  {
-    "model": "Custom",
-    "CPU": "Intel Core 2 Quad Q6700",
-    "RAM": "4GB 4x1 DDR2",
-    "OS": "OpenMediaVault",
-    "purpose": "NAS"
-  }
-]
+}
 ```
 
 ##### Favorite languages
 * C (Semi Fluent)
 * PHP (Semi Fluent)
 * JavaScript (Fluent)
-
+* Rust (Learning)
 
 ##### Languages I hate
 * C# (Fluent)
