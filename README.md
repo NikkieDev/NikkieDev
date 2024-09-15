@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @NikkieDev;
-- 👀 I’m interested in Networking, Programming;
+- 👋 Hi, I’m @NikkieDev
+- 👀 I’m interested in Networking, Programming
 - 🌱 I’m currently learning C
-- 👩‍🎓 I'm studying software development at ROCvT;
+- 👩‍🎓 I'm studying software development at ROCvT
 - 💻 I'm currently working at Wiljekoffie B.V. and Kubyx Integrations
+- 📱 I'm comfortable working in Linux, MacOS & Windows
 - 💬 I'm a Dutch translator for [Web Host Simulator](https://ko-fi.com/WebHostSimulator)
 
 ### Top Skills
@@ -40,9 +41,6 @@
 * VS code
 
 [My Dotfiles](https://github.com/NikkieDev/dotfiles)
-
-> I hate microsoft and windows btw
-# Unix FTW
 
 
 ###### All Technologies I remember using:
@@ -93,10 +91,9 @@ Workflows:
 
 
 SCM:  
-  * Github, Gitlab, My harddrive at some point lol, Manual SFTP server transferring. Also just coding straight to production (terrible Idea)
+  * Github, Gitlab, My harddrive at some point lol, Manual SFTP server transferring.
 
 
 ORM:
   * TypeORM
-
-Amount of times I've accidentally dropped prod DB: 7
+  * Eloquent ORM
