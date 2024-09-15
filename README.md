@@ -21,24 +21,9 @@
 * JavaScript (Fluent)
 * Rust (Learning)
 
-##### Languages I hate
-* C# (Fluent)
-* TypeScript (Fluent)
-* C++ (terrible at it)
+##### Fluent in
+Typescript/javascript, PHP, C, Vue.JS, Laravel, SQL, Linux
 
-##### Operating systems
-* Arch
-* Debian
-* Ubuntu
-* Windows
-
-###### Window/Display Managers
-* i3wm (Debian)
-* Hyprland (Arch)
-
-###### Preferred editors
-* Vim
-* VS code
 
 [My Dotfiles](https://github.com/NikkieDev/dotfiles)
 
