@@ -27,6 +27,14 @@
 }
 ```
 
+### Top Skills
+* Front-end Web Development in Vue.JS, Vanilla JS and jQuery
+* Full-stack development in Laravel, Pure PHP and Express.JS
+* HubSpot Web Development
+* System Administration
+* Hosting
+
+
 ##### Favorite languages
 * C (Semi Fluent)
 * PHP (Semi Fluent)
