@@ -2,30 +2,8 @@
 - 👀 I’m interested in Networking, Programming;
 - 🌱 I’m currently learning C
 - 👩‍🎓 I'm studying software development at ROCvT;
+- 💻 I'm currently working at Wiljekoffie B.V. and Kubyx Integrations
 - 💬 I'm a Dutch translator for [Web Host Simulator](https://ko-fi.com/WebHostSimulator)
-  
-`./NikkieDev/Specs.json`
-```
-"PC Specs": {
-  "Case": "Thermaltake S100TG",
-  "MOBO": "Asus Prime B560M-A",
-  "CPU": "Intel Core i5-10400F",
-  "GPU": "Gigabyte EAGLE RTX 3060 OC 12GB",
-  "RAM": "24GB DDR4",
-  "Cooler": "Cooler master masterliquid ML120L v2 RGB",
-  "PSU": "Cooler master MWE Silver 750W",
-  "Drives": ["Kingston A400 480GB", "Seagate Barracuda 7200RPM 2TB HDD", "Samsung 870 Evo 2TB SSD"],
-  "primary_monitor": "Some 165Hz 1440p 31.5Inch Philips Monitor"
-},
-"Daily carry Laptop": {
-  "Model": "Dell Latitude 5480",
-  "CPU": "Intel Core i5-6300U",
-  "RAM": "16GB DDR4 (2x8)",
-  "Storage": "Samsung 870 Evo 1TB SSD",
-  "OS": "GNU+Linux Debian 11.6 Bullseye",
-  "WM": "i3wm"
-}
-```
 
 ### Top Skills
 * Front-end Web Development in Vue.JS, Vanilla JS and jQuery
@@ -33,6 +11,7 @@
 * HubSpot Web Development
 * System Administration
 * Hosting
+* Digital business automation
 
 
 ##### Favorite languages
