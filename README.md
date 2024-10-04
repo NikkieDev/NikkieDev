@@ -33,5 +33,6 @@ Fluent in
 
 #### Projects I have published, some left unfinished forever.
 * [KnipURL](https://knipurl.nl), a BitLy clone. [Publically archived from any future development]
+* [LCounter], a line counting tool for developers. [Publically archived from any future development]
 * SocialCurl, a Linktree clone. [Deprecated, privately archived]
 * A couple of discord bots.
