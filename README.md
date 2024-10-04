@@ -20,7 +20,9 @@ Fluent in
 
 
 #### Skills
+* Software integration development (Making integrations between big platforms like HubSpot & PandaDoc).
 * CI/CD
+* System Administration (Emails, DNS, Webhosting, etc)
 * Linux (Debian variants)
 * Web Development
 * RESTFull API development
@@ -31,5 +33,5 @@ Fluent in
 
 #### Projects I have published, some left unfinished forever.
 * [KnipURL](https://knipurl.nl), a BitLy clone. [Publically archived from any future development]
-* SocialCurl, a Linktree clone. [Deprecated]
+* SocialCurl, a Linktree clone. [Deprecated, privately archived]
 * A couple of discord bots.
