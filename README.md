@@ -27,7 +27,7 @@ Fluent in
 * Web Development
 * RESTFull API development
 * CMS/CRM management
-* Very familiar with the Discord API & JavaScript SDK
+* Very familiar with the Discord API & SDK
 
 [My Dotfiles](https://github.com/NikkieDev/dotfiles)
 
