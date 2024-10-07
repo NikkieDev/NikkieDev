@@ -12,7 +12,7 @@ Fluent in
 
 ![image](https://img.shields.io/badge/PHP-8993be)
 ![image](https://img.shields.io/badge/Laravel-FB503b)
-![image](https://img.shields.io/badge/JavaScript-323330)
+![image](https://img.shields.io/badge/JavaScript-FFDE21)
 ![image](https://img.shields.io/badge/TypeScript-3178C6)
 ![image](https://img.shields.io/badge/NuxtJS-42b883)
 ![image](https://img.shields.io/badge/VueJS-42b883)
