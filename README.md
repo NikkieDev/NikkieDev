@@ -9,7 +9,7 @@
 
 Fluent in
 
-
+![image](https://img.shields.io/badge/The_C_Programming_Language-808080)
 ![image](https://img.shields.io/badge/PHP-8993be)
 ![image](https://img.shields.io/badge/Laravel-FB503b)
 ![image](https://img.shields.io/badge/JavaScript-FFDE21)
