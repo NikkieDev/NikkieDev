@@ -5,7 +5,7 @@
 - 💻 I'm currently working at Wiljekoffie B.V. and Kubyx Integrations
 - 📱 I'm comfortable working in Linux, MacOS & Windows
 - 💬 I'm a Dutch translator for [Web Host Simulator](https://ko-fi.com/WebHostSimulator)
-- Here is my linkedin, with my Curriculum Vitae, and my certificates and previous work experiences. [My Linkedin](https://www.linkedin.com/in/nik-schaad-b5080624a/)
+- Here is my linkedin, with my Curriculum Vitae, and my certificates and previous work experiences. [My Linkedin](https://www.linkedin.com/in/nikkiedev/)
 
 Fluent in
 
