@@ -20,7 +20,7 @@ Fluent in
 
 
 #### Skills
-* Software integration development (Making integrations between big platforms like HubSpot & PandaDoc).
+* Software development (Making integrations between big platforms like HubSpot & PandaDoc).
 * CI/CD
 * System Administration (Emails, DNS, Webhosting, etc)
 * Linux (Debian variants)
