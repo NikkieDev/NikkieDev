@@ -39,6 +39,11 @@ I'm a passionate software engineer with a deep interest in **programming**, and 
 ---
 
 ## Published Projects
+### **Kubyx***
+Developing my own Hosting business from scratch.
+Status: [Active development, private]
+[View Website](https://kbx.sh)
+
 ### **KnipUrl**
 A Bitly clone built in PHP.  
 Status: [Deprecated, publicly archived].
