@@ -39,25 +39,25 @@ I'm a passionate software engineer with a deep interest in **programming**, and 
 ---
 
 ## Published Projects
-### **Kubyx***
+### **Kubyx** 2024 - present
 Developing my own Hosting business from scratch.
 Status: [Active development, private]
 [View Website](https://kbx.sh)
 
-### **KnipUrl**
+### **KnipUrl** 2023 - 2024
 A Bitly clone built in PHP.  
 Status: [Deprecated, publicly archived].
 
-### **LCounter**
+### **LCounter** 2022
 A line-counting tool for developers.  
 Status: [Publicly archived, no future development].  
 [View Project](https://github.com/NikkieDev/lcounter)
 
-### **SocialCurl**
+### **SocialCurl** 2022 - 2023
 A Linktree clone for personalized links.  
 Status: [Deprecated, privately archived].
 
-### **HubSpot Package Manager (HPM)**
+### **HubSpot Package Manager (HPM)** 2024 - 2025
 A package manager for HubSpot CMS Web Modules, similar to npm.  
 Features: 
 - VSCode Extension.  
@@ -65,12 +65,14 @@ Features:
 - Planned GUI Dashboard.  
 Status: [Never Published].
 
-### **Discord Bots**
+### **Discord Bots** 2020 - 2023
 Developed several Discord bots, some of which were verified and used in hundreds of servers.
 
 ---
 
 ## Let's Connect!
 Feel free to reach out for collaborations, questions, or feedback. I'm always excited to work on new and challenging projects!
+
 For private outreach -> nikkie@schaad.zip
+
 For any business related questions, inquiries, or other -> contact@kubyx.nl or +31 643 917 146
