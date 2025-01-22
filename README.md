@@ -1,38 +1,71 @@
-- 👋 Hi, I’m @NikkieDev
-- 👀 I’m interested in Networking, Programming
-- 🌱 I’m currently learning Swedish
-- 👩‍🎓 I'm studying software development at ROCvT
-- 💼 I have my own Freelance hosting/software company, Kubyx Integrations & Hosting Solutions.
-- 📱 I prefer working on MacOS or Linux
-- 💬 I'm a Dutch translator for [Web Host Simulator](https://ko-fi.com/WebHostSimulator)
-- Here is my linkedin, with my Curriculum Vitae, my certificates and previous work experiences. [My Linkedin](https://www.linkedin.com/in/nikkiedev/)
+# 👋 Hi, I’m @NikkieDev
 
-Fluent in
+I'm a passionate software engineer with a deep interest in **programming**, and **system administration**. I enjoy learning new technologies, building tools, and improving workflows for individuals and businesses alike.
 
-![image](https://img.shields.io/badge/The_C_Programming_Language-808080)
-![image](https://img.shields.io/badge/PHP-8993be)
-![image](https://img.shields.io/badge/JavaScript-FFDE21)
-![image](https://img.shields.io/badge/TypeScript-3178C6)
-![image](https://img.shields.io/badge/NuxtJS-42b883)
-![image](https://img.shields.io/badge/VueJS-42b883)
-![image](https://img.shields.io/badge/HubL-fa7820)
+---
 
+## About Me
+- 🌱 Currently learning **Symfony**.
+- 👩‍🎓 Studying **Software Development** at **ROCvT**.
+- 💼 Founder of **Kubyx Integrations & Hosting Solutions**, a freelance hosting and software company.
+- 📱 Prefer working on **macOS** and **Linux** environments.
+- 💬 Contribute as a Dutch translator for [Web Host Simulator](https://ko-fi.com/WebHostSimulator).
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/nikkiedev/) to view my **Curriculum Vitae**, **certificates**, and **work experience**.
 
-#### Skills
-* Software development (Making integrations between big platforms like HubSpot & PandaDoc).
-* CI/CD
-* System Administration (Emails, DNS, Webhosting, etc)
-* Linux (Debian variants)
-* Web Development
-* RESTFull API development
-* CMS/CRM management
-* Much familiarity with HubSpot & the HubSpot API (and [JavaScript SDK](https://www.npmjs.com/package/@hubspot/api-client))
+---
 
-[My Dotfiles](https://github.com/NikkieDev/dotfiles)
+## Fluent In
+![C](https://img.shields.io/badge/The_C_Programming_Language-808080)
+![PHP](https://img.shields.io/badge/PHP-8993be)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFDE21)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6)
+![NuxtJS](https://img.shields.io/badge/NuxtJS-42b883)
+![VueJS](https://img.shields.io/badge/VueJS-42b883)
+![HubL](https://img.shields.io/badge/HubL-fa7820)
 
-#### Projects I have published, some left unfinished forever.
-* KnipUrl, a BitLy clone. [Deprecated, publically archived from any future development]
-* [LCounter](https://github.com/NikkieDev/lcounter), a line counting tool for developers. [Publically archived from any future development]
-* SocialCurl, a Linktree clone. [Deprecated, privately archived]
-* HPM, a Hubspot CMS package manager. It's like NPM, but for Hubspot CMS Web Modules. This included a VSCode extension, a REST API written in NestJS and a future insight for a GUI dashboard [Never published]
-* A couple of discord bots.
+---
+
+## Skills
+- **Software Development**: Building integrations between major platforms (e.g., HubSpot, PandaDoc).
+- **CI/CD**: Automating workflows and deployments.
+- **System Administration**: Managing emails, DNS, web hosting, and more.
+- **Linux**: Specialized in Debian-based distributions.
+- **Web Development**: Crafting scalable and maintainable websites.
+- **RESTful API Development**: Designing robust APIs.
+- **CMS/CRM Management**: Particularly proficient with **HubSpot CMS**, **HubSpot API**, and the [JavaScript SDK](https://www.npmjs.com/package/@hubspot/api-client).
+
+[🔧 My Dotfiles](https://github.com/NikkieDev/dotfiles)
+
+---
+
+## Published Projects
+### **KnipUrl**
+A Bitly clone built in PHP.  
+Status: [Deprecated, publicly archived].
+
+### **LCounter**
+A line-counting tool for developers.  
+Status: [Publicly archived, no future development].  
+[View Project](https://github.com/NikkieDev/lcounter)
+
+### **SocialCurl**
+A Linktree clone for personalized links.  
+Status: [Deprecated, privately archived].
+
+### **HubSpot Package Manager (HPM)**
+A package manager for HubSpot CMS Web Modules, similar to npm.  
+Features: 
+- VSCode Extension.  
+- REST API built in NestJS.  
+- Planned GUI Dashboard.  
+Status: [Never Published].
+
+### **Discord Bots**
+Developed several Discord bots, some of which were verified and used in hundreds of servers.
+
+---
+
+## Let's Connect!
+Feel free to reach out for collaborations, questions, or feedback. I'm always excited to work on new and challenging projects!
+For private outreach -> nikkie@schaad.zip
+For any business related questions, inquiries, or other -> contact@kubyx.nl or +31 643 917 146
