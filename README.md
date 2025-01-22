@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Swedish
 - 👩‍🎓 I'm studying software development at ROCvT
 - 💼 I have my own Freelance hosting/software company, Kubyx Integrations & Hosting Solutions.
-- 📱 I'm comfortable working in Linux, MacOS & Windows
+- 📱 I prefer working on MacOS or Linux
 - 💬 I'm a Dutch translator for [Web Host Simulator](https://ko-fi.com/WebHostSimulator)
-- Here is my linkedin, with my Curriculum Vitae, and my certificates and previous work experiences. [My Linkedin](https://www.linkedin.com/in/nikkiedev/)
+- Here is my linkedin, with my Curriculum Vitae, my certificates and previous work experiences. [My Linkedin](https://www.linkedin.com/in/nikkiedev/)
 
 Fluent in
 
