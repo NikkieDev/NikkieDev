@@ -7,7 +7,8 @@ I'm a passionate software engineer with a deep interest in **programming**, and 
 ## About Me
 - 🌱 Currently learning **Symfony**.
 - 👩‍🎓 Studying **Software Development** at **ROCvT**.
-- 💼 Founder of **Kubyx Integrations & Hosting Solutions**, a freelance hosting and software company.
+- 💼 Founder of **Kubyx Integrations & Hosting Solutions**, a hosting company.
+- 💼 Working as a **Software developer** at [**New Aspect B.V.**](https://www.newaspect.nl/)
 - 📱 Prefer working on **macOS** and **Linux** environments.
 - 💬 Contribute as a Dutch translator for [Web Host Simulator](https://ko-fi.com/WebHostSimulator).
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/nikkiedev/) to view my **Curriculum Vitae**, **certificates**, and **work experience**.
@@ -17,10 +18,8 @@ I'm a passionate software engineer with a deep interest in **programming**, and 
 ## Fluent In
 ![C](https://img.shields.io/badge/The_C_Programming_Language-808080)
 ![PHP](https://img.shields.io/badge/PHP-8993be)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFDE21)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6)
 ![NuxtJS](https://img.shields.io/badge/NuxtJS-42b883)
-![VueJS](https://img.shields.io/badge/VueJS-42b883)
 ![HubL](https://img.shields.io/badge/HubL-fa7820)
 
 ---
@@ -42,7 +41,7 @@ I'm a passionate software engineer with a deep interest in **programming**, and 
 ### **Kubyx** 2024 - present
 Developing my own Hosting business from scratch.
 Status: [Active development, private]
-[View Website](https://kbx.sh)
+[View prototype website](https://kbx.sh)
 
 ### **KnipUrl** 2023 - 2024
 A Bitly clone built in PHP.  
