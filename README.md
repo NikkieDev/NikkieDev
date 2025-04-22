@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @NikkieDev
 
-I'm a passionate software engineer with a deep interest in **programming**, and **system administration**. I enjoy learning new technologies, building tools, and improving workflows for individuals and businesses alike.
+I'm a passionate software engineer with a deep interest in **programming**, and **system administration**. I enjoy learning new technologies, building tools, and improving workflows for individuals and businesses alike. I have certifications from Bit-academy, W3Schools & HubSpot Academy.
 
 ---
 
@@ -11,16 +11,14 @@ I'm a passionate software engineer with a deep interest in **programming**, and 
 - 💼 Working as a **Software developer** at [**New Aspect B.V.**](https://www.newaspect.nl/)
 - 📱 Prefer working on **macOS** and **Linux** environments.
 - 💬 Contribute as a Dutch translator for [Web Host Simulator](https://ko-fi.com/WebHostSimulator).
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/nikkiedev/) to view my **Curriculum Vitae**, **certificates**, and **work experience**.
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/nikkiedev/) to view my **Curriculum Vitae**, **certificates**, and **work experience**
 
----
-
-## Fluent In
 ![C](https://img.shields.io/badge/The_C_Programming_Language-808080)
 ![PHP](https://img.shields.io/badge/PHP-8993be)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6)
 ![NuxtJS](https://img.shields.io/badge/NuxtJS-42b883)
 ![HubL](https://img.shields.io/badge/HubL-fa7820)
+![Java](https://img.shields.io/badge/Java-c97506)
 
 ---
 
