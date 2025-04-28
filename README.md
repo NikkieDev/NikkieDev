@@ -29,7 +29,7 @@ I'm a passionate software engineer with a deep interest in **programming**, and 
 - **Linux**: Specialized in Debian-based distributions.
 - **Web Development**: Crafting scalable and maintainable websites.
 - **RESTful API Development**: Designing robust APIs.
-- **CMS/CRM Management**: Particularly proficient with **HubSpot CMS**, **HubSpot API**, and the [JavaScript SDK](https://www.npmjs.com/package/@hubspot/api-client).
+- **CMS/CRM Management**: Particularly proficient with **HubSpot CMS**, **HubSpot API**, and the [HubSpot JavaScript SDK](https://www.npmjs.com/package/@hubspot/api-client).
 
 [🔧 My Dotfiles](https://github.com/NikkieDev/dotfiles)
 
