@@ -71,5 +71,5 @@ Developed several Discord bots, some of which were verified and used in hundreds
 Feel free to reach out for collaborations, questions, or feedback. I'm always excited to work on new and challenging projects!
 
 For private outreach -> nikkie@schaad.zip
-
 For any business related questions, inquiries, or other -> contact@kubyx.nl or +31 643 917 146
+Or visit my [Personal homepage](https://schaad.zip)
