@@ -23,15 +23,13 @@ I'm a passionate software engineer with a deep interest in **programming**, and 
 ---
 
 ## Skills
-- **Software Development**: Building integrations between major platforms (e.g., HubSpot, PandaDoc).
-- **CI/CD**: Automating workflows and deployments.
+- **Software Development**: From building integrations between major platforms (e.g., HubSpot, PandaDoc), to designing and developing full-blown ERP software.
+- **CI/CD**: Automating workflows and deployments across multiple nodes.
 - **System Administration**: Managing emails, DNS, web hosting, and more.
+- **Business Administration**: Handling contracts, invoices, projects and communication.
 - **Linux**: Specialized in Debian-based distributions.
-- **Web Development**: Crafting scalable and maintainable websites.
-- **RESTful API Development**: Designing robust APIs.
+- **Web Development**: Crafting scalable and maintainable websites, .
 - **CMS/CRM Management**: Particularly proficient with **HubSpot CMS**, **HubSpot API**, and the [HubSpot JavaScript SDK](https://www.npmjs.com/package/@hubspot/api-client).
-
-[🔧 My Dotfiles](https://github.com/NikkieDev/dotfiles)
 
 ---
 
@@ -40,6 +38,7 @@ I'm a passionate software engineer with a deep interest in **programming**, and 
 Developing my own Hosting business from scratch.
 Status: [Active development, private]
 [View prototype website](https://kbx.sh)
+[Or directly contact us](https://kubyx.nl)
 
 ### **KnipUrl** 2023 - 2024
 A Bitly clone built in PHP.  
