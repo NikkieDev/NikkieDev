@@ -7,7 +7,7 @@ I'm a passionate software engineer with a deep interest in **programming**, and 
 ## About Me
 - 🌱 Currently learning **Symfony**.
 - 👩‍🎓 Studying **Software Development** at **ROCvT**.
-- 💼 Founder of **Kubyx Integrations & Hosting Solutions**, a hosting company.
+- 💼 Founder of **Kubyx**, a hosting company.
 - 💼 Working as a **Software developer** at [**New Aspect B.V.**](https://www.newaspect.nl/)
 - 📱 Prefer working on **macOS** and **Linux** environments.
 - 💬 Contribute as a Dutch translator for [Web Host Simulator](https://ko-fi.com/WebHostSimulator).
