@@ -9,7 +9,7 @@ I'm a passionate software engineer with a deep interest in **programming**, and 
 - 👩‍🎓 Studying **Software Development** at **ROCvT**.
 - 💼 Founder of **Kubyx**, a hosting company.
 - 💼 Working as a **Software developer** at [**New Aspect B.V.**](https://www.newaspect.nl/)
-- 📱 Prefer working on **macOS** and **Linux** environments.
+- 📱 Prefer working **Linux** environments.
 - 💬 Contribute as a Dutch translator for [Web Host Simulator](https://ko-fi.com/WebHostSimulator).
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/nikkiedev/) to view my **Curriculum Vitae**, **certificates**, and **work experience**
 
@@ -33,12 +33,11 @@ I'm a passionate software engineer with a deep interest in **programming**, and 
 
 ---
 
-## Published Projects
+## Projects
 ### **Kubyx** 2024 - present
 Developing my own Hosting business from scratch.
 Status: [Active development, private]
-[View prototype website](https://kbx.sh)
-[Or directly contact us](https://kubyx.nl)
+[Contact us](https://kubyx.nl)
 
 ### **KnipUrl** 2023 - 2024
 A Bitly clone built in PHP.  
