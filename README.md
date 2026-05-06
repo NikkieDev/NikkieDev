@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @NikkieDev
 
-I'm a passionate software engineer with a deep interest in **programming**, and **system administration**. I enjoy learning new technologies, building tools, and improving workflows for individuals and businesses alike. I have certifications from Bit-academy, W3Schools & HubSpot Academy.
+I'm a passionate software engineer with a deep interest in **Hosting**, and **system administration**. I enjoy learning new technologies, building tools, and improving workflows for individuals and businesses alike. I have certifications from Bit-academy, W3Schools & HubSpot Academy.
 
 ---
 
