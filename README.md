@@ -12,6 +12,7 @@ I'm a passionate software engineer with a deep interest in **Hosting**, and **sy
 - 📱 Prefer working **Linux** environments.
 - 💬 Contribute as a Dutch translator for [Web Host Simulator](https://ko-fi.com/WebHostSimulator).
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/nikkiedev/) to view my **Curriculum Vitae**, **certificates**, and **work experience**
+- 🌐 Learn more about me personally on my [Website](https://schaad.zip)
 
 ![C](https://img.shields.io/badge/The_C_Programming_Language-808080)
 ![PHP](https://img.shields.io/badge/PHP-8993be)
